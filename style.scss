@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+*, :before, :after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #e8e8e8;
+}
+
+h1{
+    color: purple;
+    font-family: 'VT323', monospace;
+    font-size: 4em;
+    letter-spacing: 1px;
+}
+
+#game{
+    background: #f1f1f1;
+    width: 1200px;
+    height: 600px;
+    box-shadow: 10px 10px 10px -5px rgba(0,0,0,0.5);
+
+    
+}
